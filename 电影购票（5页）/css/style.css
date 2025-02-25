@@ -601,3 +601,15 @@ ul {
 	font-weight: bold;
 	border-radius: 4px;
 }
+.form_group {
+    margin-bottom: 1.5rem;
+}
+.yzm-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+input:focus-visible {
+    outline: 2px solid #0066cc;
+    outline-offset: 2px;
+}
